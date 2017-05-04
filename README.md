@@ -1,24 +1,5 @@
-# README
+# Ping Pong
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ping pong is an application which tracks the players wins and losses, and automates the pairing of players depending on their elo. As of currently, this project is:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## INCOMPLETE
